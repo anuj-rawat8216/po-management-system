@@ -83,7 +83,7 @@ po-management-system
 ├ frontend
 │   └ index.html
 │
-├ screenshots
+├ Screenshots
 ├ requirements.txt
 ├ .env.example
 └ README.md
@@ -192,7 +192,7 @@ GET  /api/orders
 
 Swagger UI provided by FastAPI:
 
-![API Docs](screenshots/api.png)
+![API Docs](Screenshots/api_dashboard.png)
 
 ---
 
@@ -200,7 +200,7 @@ Swagger UI provided by FastAPI:
 
 Frontend interface for managing purchase orders.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
@@ -208,7 +208,7 @@ Frontend interface for managing purchase orders.
 
 PostgreSQL database tables viewed in pgAdmin.
 
-![Database](screenshots/database.png)
+![Database](Screenshots/database.png)
 
 ---
 
