@@ -96,7 +96,7 @@ po-management-system
 ## 1 Clone Repository
 
 ```
-git clone https://github.com/AAAAA5464/po-management-system.git
+git clone https://github.com/anuj-rawat8216/po-management-system
 cd po-management-system
 ```
 
@@ -229,4 +229,4 @@ B.Tech Computer Science
 Data Analyst / AI Enthusiast
 
 GitHub:
-https://github.com/AAAAA5464
+https://github.com/anuj-rawat8216
